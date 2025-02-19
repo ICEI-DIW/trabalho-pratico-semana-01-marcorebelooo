@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Marco Túlio Rebelo Cerqueira
+Matricula: 885543
 
 ## Tela de inspeção com navegador
-
+<img src="Tarefa 1.jpg">
 
 ## Tela de projeto no Replit
-
+<img src="Tarefa 2.jpg">
